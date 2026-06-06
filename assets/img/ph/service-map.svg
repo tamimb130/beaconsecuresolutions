@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Regional coverage map of the Southwest service area">
+<rect width="1200" height="900" fill="#1a2434"/>
+<rect x="12" y="12" width="1176" height="876" fill="none" stroke="#4f8cff" stroke-width="2" stroke-dasharray="14 10" opacity=".45" rx="16"/>
+<g transform="translate(572,392)" fill="none" stroke="#4f8cff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+<path d="M56 38a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V14a3 3 0 0 1 3-3h10l4-6h14l4 6h10a3 3 0 0 1 3 3Z"/><circle cx="28" cy="26" r="9"/></g>
+<text x="600" y="480" fill="#cdd9ea" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-size="27" font-weight="800" text-anchor="middle">IMAGE: service-map</text>
+<text x="600" y="515" fill="#8696ab" font-family="Arial,sans-serif" font-size="18" text-anchor="middle">1200×900 · replace assets/img/ph/service-map.svg</text>
+</svg>

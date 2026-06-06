@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" width="1600" height="760" role="img" aria-label="Industrial Yards &amp;amp; Laydown site secured by a Beacon Secure tower at dusk">
+<rect width="1600" height="760" fill="#1a2434"/>
+<rect x="12" y="12" width="1576" height="736" fill="none" stroke="#4f8cff" stroke-width="2" stroke-dasharray="14 10" opacity=".45" rx="16"/>
+<g transform="translate(772,322)" fill="none" stroke="#4f8cff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+<path d="M56 38a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V14a3 3 0 0 1 3-3h10l4-6h14l4 6h10a3 3 0 0 1 3 3Z"/><circle cx="28" cy="26" r="9"/></g>
+<text x="800" y="410" fill="#cdd9ea" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-size="36" font-weight="800" text-anchor="middle">IMAGE: ind-industrial-yards</text>
+<text x="800" y="457" fill="#8696ab" font-family="Arial,sans-serif" font-size="25" text-anchor="middle">1600×760 · replace assets/img/ph/ind-industrial-yards.svg</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="'Plus Jakarta Sans',Arial,sans-serif">
+<rect width="1200" height="630" fill="#151d2b"/>
+<rect x="0" y="556" width="1200" height="74" fill="#4f8cff"/>
+<path d="M92 70 78 76v18c0 14 9 22 23 27 14-5 23-13 23-27V76L101 70Z" fill="rgba(79,140,255,.18)" stroke="#4f8cff" stroke-width="3"/>
+<circle cx="101" cy="90" r="6" fill="#4f8cff"/>
+<text x="150" y="98" fill="#f0f4fa" font-size="26" letter-spacing="3" font-weight="800">BEACON SECURE SOLUTIONS</text>
+<text x="88" y="280" fill="#f0f4fa" font-size="80" font-weight="800">See every corner.</text>
+<text x="88" y="366" fill="#7fa9ff" font-size="80" font-weight="800">Stop every threat.</text>
+<text x="88" y="452" fill="#f0f4fa" font-size="80" font-weight="800">Live in <tspan fill="#ff6f52">24 hours.</tspan></text>
+<text x="90" y="520" fill="#bcc8d9" font-size="28" font-weight="500">Solar AI surveillance towers · AI &amp; live monitoring · deploy in 24 hours</text>
+<text x="90" y="602" fill="#ffffff" font-size="22" font-weight="700">LIVE IN 24 HRS  ·  NDAA AVAILABLE  ·  LICENSED &amp; INSURED</text>
+</svg>
