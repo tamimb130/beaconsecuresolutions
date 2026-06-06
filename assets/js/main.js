@@ -1,5 +1,5 @@
 /* =========================================================================
-   Bastion Watch — site interactions
+   Beacon Secure Solutions — site interactions
    ========================================================================= */
 (function () {
   "use strict";

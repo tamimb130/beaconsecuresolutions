@@ -38,3 +38,7 @@ The home page has two rows of dashed **"Your logo" / award** boxes (`.logo-slot`
 Replace each `<span class="logo-slot">…</span>` with an `<img>` of a client or award logo when you have them.
 
 Total photo slots: **21**.
+
+## Generated production imagery
+
+The placeholder image slots have been wired to generated, optimized WebP files in `assets/img/generated/`. Original placeholder SVGs remain in `assets/img/ph/` as safe fallbacks/source references. The generated files cover the hero, product unit, construction, commercial/retail, industrial/utility, public/event, dealership, property management, about/team, and service-area map use cases.
